@@ -1,0 +1,7 @@
+.selected, .selected:hover {
+    background-color: aqua;
+}
+
+.clickable-row:hover {
+    background-color: aquamarine;
+}
