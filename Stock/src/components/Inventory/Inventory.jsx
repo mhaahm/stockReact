@@ -6,7 +6,6 @@ import InventoryNote from "./InventoryNote";
 import {RiDeleteBin6Line} from 'react-icons/ri'
 import {GrDocumentUpdate} from 'react-icons/gr'
 import {BsDatabaseAdd} from 'react-icons/bs'
-import StockErrorMgr from "../Utils/StockErrorMgr";
 
 const Inventory = () => {
 

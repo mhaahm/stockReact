@@ -16,11 +16,17 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #f7f7fa;
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #de1bda;
+  border-bottom: solid 2px #62ea2c;
+
+}
+
+.MuiTypography-root:has(.active) {
+  border-bottom: solid 2px;
 }
 
 body {
